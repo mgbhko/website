@@ -36,7 +36,7 @@ npm install --save-dev prettier --exact
 
 See [`unibeautify-cli` repository](https://github.com/Unibeautify/unibeautify-cli) for more information. [Click here for a list of published beautifiers.](https://classic.yarnpkg.com/en/packages?q=beautifier-&p=1&keywords%5B0%5D=unibeautify)
 
-<script type="application/ld+json">
+<script 
 {
   "@context": "http://schema.org",
   "@type": "HowTo",
